@@ -12,8 +12,7 @@ Switch microphone between two apps (Discord/WhatsApp) without disconnecting
 
 ### What it CAN do:
 - Detect root/Shizuku
-- Show floating button
-- Force stop apps (disconnects calls)
+- Show floating button ( js click and it will change mic permission ) 
 - Toggle mic permissions (only affects new sessions)
 
 ### Requirements:
@@ -22,8 +21,8 @@ Switch microphone between two apps (Discord/WhatsApp) without disconnecting
 - Overlay permission
 
 ### Known Issues:
-- Mic doesn't actually switch during active calls
-- Force stopping apps disconnects voice calls
+- Mic doesn't actually switch during active calls 
+- Force stopping apps disconnects voice calls ( fixed ) 
 - Permission changes don't affect ongoing sessions
 
 ### Technical Limitations:
