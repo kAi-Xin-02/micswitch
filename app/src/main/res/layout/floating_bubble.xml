@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    android:background="@drawable/bubble_bg"
+    android:elevation="8dp">
+
+    <ImageView
+        android:id="@+id/mic_icon"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_mic"
+        android:tint="@color/white"
+        android:contentDescription="@string/switch_mic" />
+
+</FrameLayout>

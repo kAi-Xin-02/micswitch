@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MicSwitch</string>
+    <string name="switch_mic">Switch Microphone</string>
+    <string name="select_apps">Select Apps</string>
+    <string name="app_a">First App</string>
+    <string name="app_b">Second App</string>
+    <string name="start_service">Start</string>
+    <string name="stop_service">Stop</string>
+    <string name="root_detected">Root detected</string>
+    <string name="shizuku_detected">Shizuku detected</string>
+    <string name="no_method">Please setup Root or Shizuku</string>
+    <string name="permission_needed">Overlay permission required</string>
+</resources>
