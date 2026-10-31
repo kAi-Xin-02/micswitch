@@ -1,8 +1,4 @@
-# MicSwitch - Project Archive
-
-## Why This Project Failed
-
-Android's audio system gives exclusive microphone access to apps. Once an app starts recording, it holds the mic until it voluntarily releases it. No amount of permissions manipulation can change an active audio session.
+MicSwitch — Android Audio Routing & LSposed Research An open-source exploration into bypassing Android's exclusive audio focus via LSposed hooks and AOSP audio policy manipulation.
 
 ## What Was Tried
 
