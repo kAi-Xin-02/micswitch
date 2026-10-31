@@ -1,8 +1,6 @@
 ## MicSwitch - Microphone Switcher for Android
 
-**⚠️ PROJECT DISCONTINUED**
-
-### What it was supposed to do:
+### What it is supposed to do:
 Switch microphone between two apps (Discord/WhatsApp) without disconnecting
 
 ### Why it failed:
@@ -12,8 +10,8 @@ Switch microphone between two apps (Discord/WhatsApp) without disconnecting
 
 ### What it CAN do:
 - Detect root/Shizuku
-- Show floating button ( js click and it will change mic permission ) 
-- Toggle mic permissions (only affects new sessions)
+- Show floating button 
+- Toggle mic permissions 
 
 ### Requirements:
 - Android 8.0+
@@ -29,4 +27,3 @@ Switch microphone between two apps (Discord/WhatsApp) without disconnecting
 Android's AudioRecord API gives exclusive mic access to first app that requests it.
 No way to override this without modifying Android OS itself.
 
-**Learning project - Not functional for intended purpose**
